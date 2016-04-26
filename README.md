@@ -79,11 +79,11 @@ Ce capteur permet d’avoir la position angulaire comme une véritable boussole.
 
 Voici les différents codes utilisés : 
 
-[Détection de la couleur ](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_de_couleur.ino)
+[Détection de la couleur ](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_de_couleur/Capteur_de_couleur.ino)
 
-[Code capteur Ultrason](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_ultrason.ino)
+[Code capteur Ultrason](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_ultrason/Capteur_ultrason.ino)
 
-[Code Hacheur couplé à l'ultrason](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_ultrason.ino) 
+[Code Hacheur couplé à l'ultrason](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Hacheur_couple_ultrason/Hacheur_couple_ultrason.ino) 
 
 
 # ESP8266 Installation Arduino
