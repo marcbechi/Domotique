@@ -32,7 +32,7 @@ Voici le capteur de couleur
 Comme vous pouvez le voir, on retrouve ici les différents pins qui sont à câbler sur notre Arduino. 
 On retrouve une alimentation Vcc, la masse GND, des sortie S0, S1, S2, S3, E0, et OUT
 
-![](https://github.com/marcbechi/Domotique/blob/master/IMG_20160331_104219.jpg)
+![](https://github.com/marcbechi/Domotique/blob/master/Images%20Rapport/IMG_20160331_104219.jpg)
 
 Capteur de couleur basé sur le circuit TCS3200 et 4 leds blanches. Le capteur délivre une fréquence en fonction de la couleur. Il est constitué de 4 filtres pour chaque couleur, la fréquence de sortie est proportionnelle à la couleur choisie.
 
@@ -51,7 +51,7 @@ Le hacheur est un dispositif de l'électronique de puissance mettant en œuvre u
 
 Ici on utilise ce hacheur :
 
-![](https://github.com/marcbechi/Domotique/Images Rapport/blob/master/IMG_20160331_104147.jpg)
+![](https://github.com/marcbechi/Domotique/Images Rapport/blob/master/Images%20Rapport/IMG_20160331_104147.jpg)
 
 
 On envoie deux signaux pour 1 moteur la masse et Vcc.
@@ -68,22 +68,22 @@ Pour ce montage, les éléments sont:
 •	Capteur ultrason
 Le montage électrique:
  
-![](https://github.com/marcbechi/Domotique/blob/master/Montage%20arduino%20ultrason.png)
+![](https://github.com/marcbechi/Domotique/blob/master/Images%20Rapport/Montage%20arduino%20ultrason.png)
 
 
 Nous avons également testé une boussole HMC5883L. Elle possède 5pins : 
 
-![](https://github.com/marcbechi/Domotique/blob/master/Montage%20arduino%20boussole.png)
+![](https://github.com/marcbechi/Domotique/blob/master/Images%20Rapport/Montage%20arduino%20boussole.png)
 
 Ce capteur permet d’avoir la position angulaire comme une véritable boussole.  Il est possible d’avoir un affichage graphique à l’aide d’un autre logiciel de programmation qui est Processing. Plus d’information sur le site suivant : (http://arduikyo.blogspot.fr/2013/08/hmc5883l-compass-arduino-processing.html)
 
 Voici les différents codes utilisés : 
 
-[Détection de la couleur ](https://github.com/marcbechi/Domotique/blob/master/Capteur_de_couleur.ino)
+[Détection de la couleur ](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_de_couleur.ino)
 
-[Code capteur Ultrason](https://github.com/marcbechi/Domotique/blob/master/Capteur_ultrason.ino)
+[Code capteur Ultrason](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_ultrason.ino)
 
-[Code Hacheur couplé à l'ultrason](https://github.com/marcbechi/Domotique/blob/master/Capteur_ultrason.ino) 
+[Code Hacheur couplé à l'ultrason](https://github.com/marcbechi/Domotique/blob/master/Codes%20Arduino/Capteur_ultrason.ino) 
 
 
 # ESP8266 Installation Arduino
