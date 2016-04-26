@@ -118,7 +118,7 @@ Pendant ce temps je vous invite à vous boire un petit café si vous êtes matin
 
 Une fois installé vous allez avoir accès à toute les fonctionnalités sur Arduino pour programmer votre ESP8266. 
 Tous simplement je vous demande de vous dirigez vers `Outils -> Type de carte` 
-Descendez jusqu'à la petite flèche et vous verez qeu vous aurez à votre disposition bien plus de type de carte dont la ESP8266 NodeMCU 1.0, correspondant à celle du site que je vous ai partagé précédemment. 
+Descendez jusqu'à la petite flèche et vous verrez que vous aurez à votre disposition bien plus de type de carte dont la ESP8266 NodeMCU 1.0, correspondant à celle du site que je vous ai partagé précédemment. 
 
 Selectionné la. 
 Une panoplie d'options : 
