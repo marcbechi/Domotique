@@ -10,11 +10,6 @@ Quant à l’ESP8266, nous avons testé la connexion en websocket avec une appli
 
 
 
-
-
-
-
-
 Dans un premier temps nous allons voir le matériel mit à notre disposition. 
 
 Pour réaliser les tests des différents capteurs nous un Arduino Micro. 
@@ -56,7 +51,7 @@ Ici on utilise ce hacheur :
 
 On envoie deux signaux pour 1 moteur la masse et Vcc.
 On branche deux moteurs sur chaque module. 
-Le principe est de 
+ 
 
 
 
