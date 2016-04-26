@@ -144,8 +144,8 @@ Bonne programmation !! :+1: :+1: :+1:
 
 Pour cette installation je vous invite à suivre le Tuto du créateur qui est très bien fait et assez simple à réaliser.
 Il a également fait des vidéos explicatives pour installer son plug-in. 
-[Lien Youtube vers ses vidéos](https://www.youtube.com/playlist?list=PLCSjf7QmP3TDPSjT_5UIp0DHXzKdhIQsF)
-[Lien vers son site permettant de télécharger le plug-in](http://eclipse.baeyens.it/)
+*[Lien Youtube vers ses vidéos](https://www.youtube.com/playlist?list=PLCSjf7QmP3TDPSjT_5UIp0DHXzKdhIQsF)
+*[Lien vers son site permettant de télécharger le plug-in](http://eclipse.baeyens.it/)
 
 # ESP8266 Websocket Application
 
