@@ -86,6 +86,67 @@ Voici les différents codes utilisés :
 [Code Hacheur couplé à l'ultrason](https://github.com/marcbechi/Domotique/blob/master/Capteur_ultrason.ino) 
 
 
+# ESP8266 Installation Arduino
+Projet Final Domotique
+
+
+Le but de ce projet est de programmer un  ESP8266 avec le code exécuté sur notre arudino UNO afin d'avoir une communication Wifi comprise dans l'ESP8266.
+Pour cela nous nous sommes donc intéressé à la bibliothèque ESP8266 compatible Arduino ainsi que d'autres méthodes que nous allons voir. 
+
+Dans un premier temps nous allons voir le matériel mit à notre disposition. 
+
+Nous avions donc un ESP8266 V1.0 que vous pouvez retrouver en vente sur ce site :
+[ESP8266](http://e.banana-pi.fr/fr/recherche?controller=search&orderby=position&orderway=desc&search_query=esp8266)
+
+Un ordinateur ayant Arduino 1.6.7 installé qui est la dernière version à jour d'Arduino :
+
+[Dernière Version d'Arduino](https://www.arduino.cc/en/Main/Software)
+
+Pour ajouter les plug-in nécessaire à l'outils de programmation de l'ESP8266 sur Arduino, je vous invite a suivre les instructions suivantes: 
+
+# 1.
+Ajouter le lien de référence au développement de l'ESP8266. 
+Pour cela 
+`Fichier -> Préférences.`
+Copier le lien suivant dans `URL de gestionnaire de cartes supplémentaires` :
+
+`http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+
+# 2.
+Pour vérifier si votre lien est correcte, aller dans :
+`Outils -> Type de carte -> Gestionnaire de carte`
+
+Lancez la recherche `ESP8266`
+Puis Installez 
+
+Pendant ce temps je vous invite à vous boire un petit café si vous êtes matinal, sinon un petit thé fera l'affaire ! 
+
+Une fois installé vous allez avoir accès à toute les fonctionnalités sur Arduino pour programmer votre ESP8266. 
+Tous simplement je vous demande de vous dirigez vers `Outils -> Type de carte` 
+Descendez jusqu'à la petite flèche et vous verez qeu vous aurez à votre disposition bien plus de type de carte dont la ESP8266 NodeMCU 1.0, correspondant à celle du site que je vous ai partagé précédemment. 
+
+Selectionné la. 
+Une panoplie d'options : 
+
+• La fréquence du CPU : 80MHz ou 16MHz
+• La taille de la mémoire Flash 
+• La fréquence de téléversement et communication avec le PC 
+
+Je vous conseille de ne laisser les paramètres de bases si vous n'êtes pas expert, cela ne vous apportera rien de modifier les valeurs. 
+Seul le Bauderate peut être utile selon les capteurs que vous utiliserez sur votre ESP8266 NodeMCU 1.0
+
+
+Vous voilà fin prêt à programmer votre ESP8266 avec Arduino. 
+Bonne programmation !! :+1: :+1: :+1:  
+
+
+# ESP8266 Installation Eclipse Arduino IDE
+
+Pour cette installation je vous invite à suivre le Tuto du créateur qui est très bien fait et assez simple à réaliser.
+Il a également réalisé des vidéos afin d'expliquer comment installer son plug-in. 
+[Lien Youtube vers ses vidéos](https://www.youtube.com/playlist?list=PLCSjf7QmP3TDPSjT_5UIp0DHXzKdhIQsF)
+[Lien vers son site permettant de télécharger le plug-in](http://eclipse.baeyens.it/)
+
 # ESP8266 Websocket Application
 
 Pour commencer à travailler avec l’ESP8266, nous avons récupérer un code de websocket et nous avons modifié ce programme afin de pouvoir communiquer avec, et envoyé un message à l’ESP8266 à l’aide d’un Smartphone Android. 
