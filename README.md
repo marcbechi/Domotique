@@ -128,9 +128,9 @@ Descendez jusqu'à la petite flèche et vous verez qeu vous aurez à votre dispo
 Selectionné la. 
 Une panoplie d'options : 
 
-• La fréquence du CPU : 80MHz ou 16MHz \
-• La taille de la mémoire Flash \
-• La fréquence de téléversement et communication avec le PC \
+* La fréquence du CPU : 80MHz ou 16MHz 
+* La taille de la mémoire Flash 
+* La fréquence de téléversement et communication avec le PC 
 
 Je vous conseille de ne laisser les paramètres de bases si vous n'êtes pas expert, cela ne vous apportera rien de modifier les valeurs. 
 Seul le Bauderate peut être utile selon les capteurs que vous utiliserez sur votre ESP8266 NodeMCU 1.0
