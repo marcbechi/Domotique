@@ -144,8 +144,10 @@ Bonne programmation !! :+1: :+1: :+1:
 
 Pour cette installation je vous invite à suivre le Tuto du créateur qui est très bien fait et assez simple à réaliser.
 Il a également fait des vidéos explicatives pour installer son plug-in. 
-*[Lien Youtube vers ses vidéos](https://www.youtube.com/playlist?list=PLCSjf7QmP3TDPSjT_5UIp0DHXzKdhIQsF)
-*[Lien vers son site permettant de télécharger le plug-in](http://eclipse.baeyens.it/)
+
+[Lien Youtube vers ses vidéos](https://www.youtube.com/playlist?list=PLCSjf7QmP3TDPSjT_5UIp0DHXzKdhIQsF)
+
+[Lien vers son site permettant de télécharger le plug-in](http://eclipse.baeyens.it/)
 
 # ESP8266 Websocket Application
 
@@ -153,6 +155,6 @@ Pour commencer à travailler avec l’ESP8266, nous avons récupérer un code de
 
 Sur ce Smartphone Android, nous avons récupéré une application Android sur le Play Store : 
 
-![](https://github.com/marcbechi/Domotique/blob/master/Screenshot_2016-03-31-11-34-45.png)
+![](https://github.com/marcbechi/Domotique/blob/master/Images%20Rapport/Screenshot_2016-03-31-11-34-45.png)
 
 Cette application permet de se connecter au Websocket de l’ESP8266 et d’envoyer un message. 
