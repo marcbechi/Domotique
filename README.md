@@ -98,7 +98,7 @@ Dans un premier temps nous allons voir le matériel mit à notre disposition.
 Nous avions donc un ESP8266 V1.0 que vous pouvez retrouver en vente sur ce site :
 [ESP8266](http://e.banana-pi.fr/fr/recherche?controller=search&orderby=position&orderway=desc&search_query=esp8266)
 
-Un ordinateur ayant Arduino 1.6.7 installé qui est la dernière version à jour d'Arduino :
+Un ordinateur ayant Arduino 1.6.8 installé qui est la dernière version à jour d'Arduino :
 
 [Dernière Version d'Arduino](https://www.arduino.cc/en/Main/Software)
 
@@ -140,10 +140,10 @@ Vous voilà fin prêt à programmer votre ESP8266 avec Arduino.
 Bonne programmation !! :+1: :+1: :+1:  
 
 
-# ESP8266 Installation Eclipse Arduino IDE
+# Autre Option : ESP8266 Installation Eclipse Arduino IDE
 
 Pour cette installation je vous invite à suivre le Tuto du créateur qui est très bien fait et assez simple à réaliser.
-Il a également réalisé des vidéos afin d'expliquer comment installer son plug-in. 
+Il a également fait des vidéos explicatives pour installer son plug-in. 
 [Lien Youtube vers ses vidéos](https://www.youtube.com/playlist?list=PLCSjf7QmP3TDPSjT_5UIp0DHXzKdhIQsF)
 [Lien vers son site permettant de télécharger le plug-in](http://eclipse.baeyens.it/)
 
